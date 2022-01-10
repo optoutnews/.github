@@ -1,6 +1,6 @@
 # OptOut Media Foundation
 
-OptOut Media Foundation is a 501(c)(3) nonprofit charity founded by independent journalists Alex Kotch and Walker Bragman in 2020 and based in Brooklyn, NY.
+[OptOut Media Foundation](https://www.optout.news/about/) is a 501(c)(3) nonprofit charity founded by independent journalists [Alex Kotch](https://twitter.com/alexkotch) and [Walker Bragman](https://twitter.com/walkerbragman) in 2020 and based in Brooklyn, NY.
 
 > Our mission is to educate the public about current events and help sustain a diverse media ecosystem by promoting and assisting independent news outlets and, in doing so, advance racial, social, economic, and environmental justice.
 
