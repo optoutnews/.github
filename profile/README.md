@@ -8,4 +8,4 @@
 
 > **A nonprofit news app that's 100% free of corporate media narratives.**
 
-OptOut is the first news aggregation app for *exclusively* independent media. The app, currently in [iOS Beta](https://testflight.apple.com/join/psivYz12) and launching in early 2022, unites independent outlets and gives news consumers a refreshing, fully independent media ecosystem—100% free from corporate media narratives.
+OptOut is the first news aggregation app for *exclusively* independent media. The app, currently available on [iOS](https://apps.apple.com/us/app/optout-news/id1531008271) and scheduled for Android release in Q2 2022, unites independent outlets and gives news consumers a refreshing, fully independent media ecosystem—100% free from corporate media narratives.
